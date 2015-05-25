@@ -2,5 +2,7 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+- Email: mmalvare *at* ucsd *dot* edu
+- Office:
+  Computer Science and Engineering (EBU3B), rm. 3260
+  University of California, San Diego
