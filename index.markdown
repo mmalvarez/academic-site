@@ -19,7 +19,7 @@ but only if we can get it right.
 **Projects**
 
 I'm currently working on verification of [Hierarchical Artifact Systems](https://cseweb.ucsd.edu/~vianu/pods16.pdf),
-a powerful yet decidable formalism for specifying certain classes of relational, data-oriented) systems and rich properties about them.
+a powerful yet decidable formalism for specifying certain classes of relational, data-oriented systems and rich properties about them.
 
 I've contributed to [Mirror-Core](https://github.com/gmalecha/mirror-core), a library for reflecive proof automation in Coq.
 
